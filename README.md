@@ -32,6 +32,8 @@ Awesome list of data export pages/tools for most common online services
 * [linkedin2md](https://github.com/juanmanueldaza/linkedin2md) - convert LinkedIn data exports to Markdown for LLM analysis & PDF resume generation
 * [Instagram](https://www.instagram.com/download/request/) - export your Instagram data
 * [TikTok](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data) - easily request and download an account archive within 4 days using their mobile app
+* [Snapchat](https://help.snapchat.com/hc/en-us/articles/7012305371156) - "My Data" export of your account, Memories photos and videos included, sent as ZIP files
+* [archive-check](https://github.com/GetMemoriesOut/archive-check) - count which Snapchat Memories will be over a year old on 1 January 2027, from the export's `memories_history.json`, offline
 * [Clubhouse](https://clubhouseapp.zendesk.com/hc/en-us/requests/new?ticket_form_id=1900000769305) - fill this form to request personal data or send an email to [support@clubhouse.com](mailto:support@clubhouse.com) with your explicit request
 
 ## Messengers
